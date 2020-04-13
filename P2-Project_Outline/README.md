@@ -7,12 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This program will be a functional webpage for a local massage business. The target audience will be prospective clients looking for therapeutic massage treatment. The page will include various information about the types of treatment, contact information, hours, and the business mission statement and policies.
+
+The page will also serve as a client management system for the therapist to keep track of new and returning clients personal information.  The therapist will be able to take treatment notes, schedule appointments, track treatment plans, and keep contact information for each client.
 ### Features
-Include Features here
+Email Correspondence: User's will be able to submit email information in order to receive updates and ask questions.
+User Log-in: New clients will be able to set up an account to track their appointments and see or update contact information.
+Appointment Scheduling: Clients will be able to schedule their own appointments online if they have an account.
+Online Intake Form: Clients can fill in their personal information online prior to their first appointment for their convenience.
+MySQL database: Clients will be stored on a MySQL database and be accessible by the therapist.
 ### Technologies
-Include Technologies here
+HTML/CSS/JavaScript
+Thymeleaf templates
+Java
+Spring Boot
+Hibernate
+MySQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+Refresh on HTML/CSS/JS
+Adding Square Appointments functionality in Java
+Making the program public.
+Storing and accessing a database remotely.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/michaelyoung451/boards
